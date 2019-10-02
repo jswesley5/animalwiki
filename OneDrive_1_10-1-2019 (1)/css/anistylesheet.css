@@ -1,0 +1,147 @@
+.container {
+    width:1080px;
+    margin: 0 auto;
+    
+}
+
+img {
+    width: 100%;
+    
+}
+.navbbar {
+   width: 1080px;
+   position:absolute;
+   text-align: center;
+   background-color: darkgreen;
+   top: 520px;
+}
+
+.navbbar ul li {
+    list-style: none;
+    display: inline;
+    padding: 40px;
+    color: white;
+}
+
+.navbbar ul li a{
+    font-family: 'Noto Serif TC', serif;
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+   
+    }  
+    
+.madone {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: 'Noto Serif TC', serif;
+    font-size:50px;
+    font-weight:700;
+    text-align: center;
+    letter-spacing: 3px;
+    color:darkgreen
+        
+} 
+ 
+h2{
+    font-family: 'Noto Serif TC', serif;
+    font-size: 25px;
+    font-weight:500;
+    text-align: center;
+    letter-spacing: 3px;
+    color: white;
+    
+}
+.vice {
+    width:520px;
+    margin:10px;
+    background-color:darkgreen;
+    float:left;
+    }
+  
+p{
+    font-family: 'Noto Serif TC', serif;
+    font-size: 20px;
+    line-height:1.5;
+    padding:15px;
+    color:white;
+    margin-top:.5;
+
+}
+
+.clear{
+    clear:both;
+}
+
+.noon{
+    background-color: darkgreen;
+    margin-top:50px;
+}
+.sept.two{
+     background-color: darkgreen;
+    margin-top: 50px;
+    margin-bottom: 00px;
+    padding-bottom: 570px;
+}
+ 
+.clear{
+    clear:both;
+}
+
+.logy{
+    width:520px;
+    margin:10px;
+    background-color:darkgreen;
+    float:left;
+    margin-top:50px;
+}
+
+.clear{
+    clear:both:
+}
+
+.hbtat{
+    width:520px;
+    margin:10px;
+    background-color: darkgreen;
+    float:right;
+    margin-top:50px;
+}
+
+.clear {
+    clear: both;
+}
+.vior{
+    width:520px;
+    margin:10px;
+    background-color: darkgreen;
+    float:left;
+    margin-top:50px;
+}
+.clear {
+    clear: both;
+}
+
+.wrapper{
+    width: 1080px;
+    display: inline-block;
+    padding left: 100px;
+    padding-right;100px;
+    }
+
+.lstpt{
+    background-color: darkgreen;
+    margin-top: 50px;
+    margin-bottom: 00px;
+    padding-bottom: 550px;
+   
+    }
+
+.three_col{
+    width: 250px;
+    float:left;
+    margin-right:100px;
+}
